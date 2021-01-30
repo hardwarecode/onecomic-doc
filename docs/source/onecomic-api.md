@@ -1,5 +1,13 @@
 # 一本漫画API
 
+**尊重版权，请支持正版**
+
+**该项目仅供技术研究使用，请勿用于非法用途，否则后果自负**
+
+**通过本工具下载或生成的资源禁止传播分享！禁止利用该项目从事营利性活动！**
+
+项目地址： [https://github.com/hardwarecode/onecomic-api](https://github.com/hardwarecode/onecomic-api)
+
 ## 接口部署
 
 自己找安装Python的教程（Python版本大于等于3.6）

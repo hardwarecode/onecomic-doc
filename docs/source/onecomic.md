@@ -6,6 +6,8 @@
 
 **通过本工具下载或生成的资源禁止传播分享！禁止利用该项目从事营利性活动！**
 
+项目地址： [https://github.com/hardwarecode/onecomic](https://github.com/hardwarecode/onecomic)
+
 ## 安装/升级步骤
 
 自己找安装Python的教程（Python版本大于等于3.6）
@@ -50,6 +52,9 @@ python -m onecomic -s qq -id 505430 -c 1-5,7,9-10
 # 拼接成长图
 python -m onecomic -s qq -id 505430 --single-image --quality 95 --max-height 20000
 
+# 压缩成zip文件
+python -m onecomic -s qq -id=505430 --zip
+
 # 设置代理
 python -m onecomic -s qq -id 505430 --proxy "socks5://127.0.0.1:1080"
 
@@ -62,7 +67,6 @@ python -m onecomic -s manhuagui -id 1128 -c 320-322 --merge --merge-zip
 # 下载单行本
 python -m onecomic -s manhuagui -id 1128 --ext-name 单行本 -c -1
 
-
 # 跟据名字搜索comicid
 python -m onecomic -s qq --name 海贼
 
@@ -71,7 +75,7 @@ python -m onecomic -s qq --name 海贼
 python -m onecomic -s qq -id 505430 --pdf
 
 # 推送到邮箱
-# 注意: 发送到邮箱需预先配置好信息 配样例参照 https://github.com/hardwarecode/onecomic-doc/blob/master/config.ini.example
+# 注意: 发送到邮箱需预先配置好信息 配样例参照 https://onecomic-doc.readthedocs.io/en/latest/onecomic-config.html
 # 并根据实际情况调整，将配置文件保存为 config.ini
 python -m onecomic -s qq -id 505430 --pdf --mail --config config.ini
 ```
