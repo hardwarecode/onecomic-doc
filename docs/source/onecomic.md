@@ -11,6 +11,9 @@
 ## 安装/升级步骤
 
 自己找安装Python的教程（Python版本大于等于3.6）
+
+Windows需要先安装git [https://gitforwindows.org/](https://gitforwindows.org/)
+
 ```sh
 # 检查python版本
 python --version

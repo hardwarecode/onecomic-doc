@@ -2,8 +2,6 @@
 
 ## 已收录-漫画站点
 
-- WEBTOON site=webtoons [https://www.webtoons.com/](https://www.webtoons.com/)
-- Toomics site=toomics (下载R18内容需要cookies) [https://toomics.com/](https://toomics.com/)
 - 拷贝漫画 site=copymanga [https://copymanga.com/](https://copymanga.com/)
 - 二次元动漫 site=2animx [https://www.2animx.com/](https://www.2animx.com/)
 - 古风漫画网 site=gufengmh8 [https://www.gufengmh8.com/](https://www.gufengmh8.com/)
@@ -22,6 +20,11 @@
 - 漫画台 site=manhuatai [https://www.manhuatai.com/](https://www.manhuatai.com/)
 - ACG肆伍陆 site=acg456 [http://www.acg456.com/](http://www.acg456.com/)
 - COCO漫画 site=cocomanhua [https://www.cocomanhua.com/](https://www.cocomanhua.com/)
+- WEBTOON site=webtoons [https://www.webtoons.com/](https://www.webtoons.com/)
+- Toomics site=toomics (下载R18内容需要cookies) [https://toomics.com/](https://toomics.com/)
+- TOPTOON site=qootoon (下载R18内容需要cookies) [https://www.qootoon.net/](https://www.qootoon.net/)
+- 扑飞漫画 site=pufei8 [http://www.pufei8.com/](http://www.pufei8.com/)
+
 
 ## 已收录-R18
 
