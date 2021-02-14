@@ -21,13 +21,13 @@ python --version
 
 ```sh
 # 在线安装/升级（最新版本）
-python -m pip install -U git+https://github.com/hardwarecode/onecomic
+python -m pip install -U onecomic
 
 # 查看帮助
 python -m onecomic --help
 
 # 安装指定版本
-python -m pip install git+https://github.com/hardwarecode/onecomic@v0.1.0
+python -m pip install onecomic==0.1.1
 ```
 
 ## 常规使用
@@ -118,6 +118,7 @@ http://ac.qq.com/Comic/ComicInfo/id/505430
 # 雏蜂
 https://www.u17.com/comic/195.html
 ```
+------
 
 ```sh
 # 有些站点不一定支持，其它的通用参数也适用，可自行组合

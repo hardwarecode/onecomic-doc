@@ -19,7 +19,6 @@ git clone git@github.com:hardwarecode/onecomic-api.git
 cd onecomic-api
 
 # 安装依赖
-python -m pip install -U git+https://github.com/hardwarecode/onecomic
 python -m pip install -r requirements.txt
 
 # 复制`api/config.py.example`并命名为`api/config.py` 并根据实际情况修改`api/config.py`的参数
@@ -31,9 +30,11 @@ gunicorn 'api:create_app()' -b "127.0.0.1:8000" --workers=2 --timeout=10
 # 查看可选的配置选项 gunicorn --help
 # 文档 http://docs.gunicorn.org/en/latest/settings.html
 
+# 更新onecomic（修复bug、添加更多的源等）
+python -m pip install -U onecomic
+
 # 更新项目。注意`api/config.py.example`有无新增的配置，如果有的话需要重新配置`api/config.py`
 git pull
-python -m pip install -U git+https://github.com/hardwarecode/onecomic
 python -m pip install -r requirements.txt
 ```
 
