@@ -12,8 +12,6 @@
 
 自己找安装Python的教程（Python版本大于等于3.6）
 
-Windows需要先安装git [https://gitforwindows.org/](https://gitforwindows.org/)
-
 ```sh
 # 检查python版本
 python --version
@@ -30,6 +28,10 @@ onecomic --help
 ```
 
 ## 常规使用
+
+**Windows下，以下所有示例命令需要添加`python -m`前缀**
+
+如: `python -m onecomic --url "http://ac.qq.com/Comic/ComicInfo/id/505430"`
 
 ```sh
 # 注意参数里的 - 和 -- 的区别
