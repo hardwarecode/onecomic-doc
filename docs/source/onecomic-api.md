@@ -19,7 +19,7 @@ git clone git@github.com:hardwarecode/onecomic-api.git
 cd onecomic-api
 
 # 安装依赖
-python -m pip install -r requirements.txt
+pip install -r requirements.txt
 
 # 复制`api/config.py.example`并命名为`api/config.py` 并根据实际情况修改`api/config.py`的参数
 cp api/config.py.example api/config.py
@@ -29,13 +29,17 @@ gunicorn 'api:create_app()' -b "127.0.0.1:8000" --workers=2 --timeout=10
 
 # 查看可选的配置选项 gunicorn --help
 # 文档 http://docs.gunicorn.org/en/latest/settings.html
+```
 
-# 更新onecomic（修复bug、添加更多的源等）
-python -m pip install -U onecomic
+更新
+```sh
+# 只更新onecomic（修复bug、添加更多的源等）
+pip install -U onecomic
 
 # 更新项目。注意`api/config.py.example`有无新增的配置，如果有的话需要重新配置`api/config.py`
 git pull
-python -m pip install -r requirements.txt
+pip install -U onecomic
+pip install -r requirements.txt
 ```
 
 ## 接口文档
@@ -406,7 +410,7 @@ curl "http://127.0.0.1:8000/crawler/config"
 - chapters: 下载的章节数 默认下载最新一集
 - is_download_all: 是否下载全部 默认否
 - is_gen_pdf: 是否生成pdf文件 默认否
-- is_gen_pdf: 是否生成zip文件 默认否
+- is_gen_zip: 是否生成zip文件 默认否
 - is_single_image: 是否生成单图文件 默认否
 - quality: 生成的单图图片质量 默认95
 - is_send_mail: 是否发送邮件 默认否
