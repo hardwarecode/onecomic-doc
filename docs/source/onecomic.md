@@ -75,7 +75,7 @@ onecomic -s manhuagui -id 1128 --ext-name 单行本 -c -1
 onecomic -s qq --name 海贼
 
 # 生成pdf文件
-# 注意: 生成pdf文件需要额外安装依赖，需要先执行 python -m pip install img2pdf 或 python -m pip install reportlab
+# 注意: 生成pdf文件需要额外安装依赖，需要先执行 pip install img2pdf 或 pip install reportlab
 onecomic -s qq -id 505430 --pdf
 
 # 推送到邮箱

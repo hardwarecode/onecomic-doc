@@ -416,6 +416,7 @@ curl "http://127.0.0.1:8000/crawler/config"
 - is_send_mail: 是否发送邮件 默认否
 - receivers: 邮件接收者，多个以逗号隔开，不传默认发送到配置文件里的收件人
 
+**注意**： 生成PDF需要安装额外依赖，`pip install img2pdf 或 pip install reportlab`
 
 请求示例
 
