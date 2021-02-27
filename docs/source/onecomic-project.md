@@ -11,7 +11,7 @@
 | 土豪漫画网 | tuhao456 | [https://www.tuhao456.com/](https://www.tuhao456.com/) |
 | 漫画DB | manhuadb | [https://www.manhuadb.com/](https://www.manhuadb.com/) |
 | DM5 | dm5 | [https://www.dm5.com/](https://www.dm5.com/) |
-| bilibili漫画 | bilibili [https://manga.bilibili.com/](https://manga.bilibili.com/) |
+| bilibili漫画 | bilibili | [https://manga.bilibili.com/](https://manga.bilibili.com/) |
 | 腾讯漫画 | qq | [https://ac.qq.com/](https://ac.qq.com/) |
 | 有妖气漫画 | u17 |  [https://www.u17.com/](https://www.u17.com/) |
 | 动漫之家 | dmzj | [https://www.dmzj.com/](https://www.dmzj.com/) |
