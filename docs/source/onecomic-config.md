@@ -2,8 +2,6 @@
 
 根据示例创建配置文件
 
-如`python -m onecomic`会默认读取当前目录下的`config.ini`配置文件
-
 ### 配置文件示例
 ```
 [mail]
@@ -70,8 +68,14 @@ crawler_timeout=30
 crawler_delay=0
 ```
 
-## 通过环境变量配置默认参数
+将上述配置保存为`config.ini`
+
+如`onecomic -s u17 -id 195 -c 1`会默认读取当前目录下的`config.ini`配置文件
+
+或者通过环境变量配置默认的配置文件
 ```sh
-# 可以将以下命令添加到 ~/.bashrc 或 ~/.zshrc 文件末尾
+# 将以下命令添加到 ~/.bashrc 或 ~/.zshrc 文件末尾
 export ONECOMIC_CONFIG_FILE="/home/xxx/MyConfig/config.ini"
 ```
+
+也可以通过参数指定配置文件`onecomic -s u17 -id 195 -c 1 --config config.ini`

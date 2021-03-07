@@ -94,6 +94,9 @@ onecomic -s u17 -id 195 -c 1
 
 # 从章节列表页面的URL下载
 onecomic --url "https://manga.bilibili.com/detail/mc28603" -c 1
+
+# 指定配置文件（详细请看配置文件部分）
+onecomic -s u17 -id 195 -c 1 --config config.ini
 ```
 
 ## 关于登录
@@ -114,7 +117,7 @@ onecomic -s qq -id=505430 -c -1 --cookies-path="qq.json"
 onecomic --url-file test/test-url-file.txt
 ```
 
-文件示例`test-url-file.txt`
+文件示例`test/test-url-file.txt`
 ```
 # 海贼王
 http://ac.qq.com/Comic/ComicInfo/id/505430
