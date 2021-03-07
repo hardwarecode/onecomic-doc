@@ -79,8 +79,7 @@ onecomic -s qq --name 海贼
 onecomic -s qq -id 505430 --pdf
 
 # 推送到邮箱
-# 注意: 发送到邮箱需预先配置好信息 配样例参照 https://onecomic-doc.readthedocs.io/en/latest/onecomic-config.html
-# 并根据实际情况调整，将配置文件保存为 config.ini
+# 注意: 发送到邮箱需预先配置好信息（详情请看配置文件部分）
 onecomic -s qq -id 505430 --pdf --mail --config config.ini
 ```
 
@@ -94,9 +93,6 @@ onecomic -s u17 -id 195 -c 1
 
 # 从章节列表页面的URL下载
 onecomic --url "https://manga.bilibili.com/detail/mc28603" -c 1
-
-# 指定配置文件（详细请看配置文件部分）
-onecomic -s u17 -id 195 -c 1 --config config.ini
 ```
 
 ## 关于登录
