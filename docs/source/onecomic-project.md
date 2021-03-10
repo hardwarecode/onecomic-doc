@@ -24,7 +24,7 @@
 | COCO漫画 | cocomanhua | [https://www.cocomanhua.com/](https://www.cocomanhua.com/) |
 | WEBTOON | webtoons | [https://www.webtoons.com/](https://www.webtoons.com/) |
 | Toomics | toomics (下载R18内容需要cookies) |  [https://toomics.com/](https://toomics.com/) |
-| TOPTOON | qootoon (下载R18内容需要cookies) | [https://www.qootoon.net/](https://www.qootoon.net/) |
+| qootoon | qootoon (下载R18内容需要cookies) | [https://www.qootoon.net/](https://www.qootoon.net/) |
 | 扑飞漫画 | pufei8 | [http://www.pufei8.com/](http://www.pufei8.com/) |
 | 歪漫屋 | yymh889 | [http://yymh889.com/](http://yymh889.com/) |
 
