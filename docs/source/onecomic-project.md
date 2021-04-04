@@ -27,6 +27,7 @@
 | qootoon | qootoon (下载R18内容需要cookies) | [https://www.qootoon.net/](https://www.qootoon.net/) |
 | 扑飞漫画 | pufei8 | [http://www.pufei8.com/](http://www.pufei8.com/) |
 | 歪漫屋 | yymh889 | [http://yymh889.com/](http://yymh889.com/) |
+| 爱飞漫画 | 2feimh | [https://www.2feimh.com/](https://www.2feimh.com/) |
 
 
 ## R18
@@ -57,4 +58,4 @@
 | --- | --- | --- |
 | e-hentai | 配合 Ehviewer 食用 | [https://e-hentai.org/](https://e-hentai.org/) |
 | exhenta | 配合 Ehviewer 食用 | [https://exhentai.org/](https://exhentai.org/) |
-| Nsfwpicx | NSFW图集（看看就好，别爬了） | [http://picxxxx.top/](http://picxxxx.top/) |
+| Nsfwpicx | NSFW图集（看看就好，别爬了） | [http://nsfwpicx.top/](https://nsfwpicx.com/) |
