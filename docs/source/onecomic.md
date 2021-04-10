@@ -136,3 +136,17 @@ onecomic -s nvshens --tag-all --tag 女神 --tag-page 1-10 --all
 # 下载搜索结果的所有漫画的全集
 onecomic -s nhentai --search-all --search-name 汉化 --search-page 1 --all
 ```
+
+
+## 其它说明
+
+#### 以下情况需要使用cookies
+
+1. 下载付费内容
+2. Toomics、qootoon站点下载R18内容需要cookies
+
+#### 关于cocomanhua的下载
+
+1. 安装nodejs环境
+2. 安装crypto-js依赖，命令：`npm install crypto-js`，默认在当前目录下生成`node_modules`目录
+3. 下载 `onecomic -s cocomanhua -id 12187` 或者 `onecomic -s cocomanhua --node-modules ./node_modules`

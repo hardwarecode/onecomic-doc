@@ -23,8 +23,8 @@
 | ACG肆伍陆 | acg456 | [http://www.acg456.com/](http://www.acg456.com/) | 支持 | - | 支持 |
 | COCO漫画 | cocomanhua | [https://www.cocomanhua.com/](https://www.cocomanhua.com/) | 支持 | 支持 | 支持 |
 | WEBTOON | webtoons | [https://www.webtoons.com/](https://www.webtoons.com/) | 支持 | - | - |
-| Toomics | toomics (下载R18内容需要cookies) |  [https://toomics.com/](https://toomics.com/) | 支持 | - | 支持 |
-| qootoon | qootoon (下载R18内容需要cookies) | [https://www.qootoon.net/](https://www.qootoon.net/) | 支持 | - | - |
+| Toomics | toomics  |  [https://toomics.com/](https://toomics.com/) | 支持 | - | 支持 |
+| qootoon | qootoon  | [https://www.qootoon.net/](https://www.qootoon.net/) | 支持 | - | - |
 | 扑飞漫画 | pufei8 | [http://www.pufei8.com/](http://www.pufei8.com/) | - | - | 支持 |
 | 歪漫屋 | yymh889 | [http://yymh889.com/](http://yymh889.com/) | 支持 | 支持 | - |
 | 爱飞漫画 | 2feimh | [https://www.2feimh.com/](https://www.2feimh.com/) | - | - | - |
