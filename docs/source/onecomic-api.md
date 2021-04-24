@@ -261,7 +261,7 @@ curl "http://127.0.0.1:8000/api/qq/tags"
 
 ### 1.6 根据tag搜索
 
-`GET /api/<site>/liat?tag={tag}&page={page}`
+`GET /api/<site>/list?tag={tag}&page={page}`
 
 请求示例
 
