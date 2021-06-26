@@ -23,13 +23,13 @@
 | ACG肆伍陆 | acg456 | [http://www.acg456.com/](http://www.acg456.com/) | √ | - | √ |
 | COCO漫画 | cocomanhua | [https://www.cocomanhua.com/](https://www.cocomanhua.com/) | √ | √ | √ |
 | WEBTOON | webtoons | [https://www.webtoons.com/](https://www.webtoons.com/) | √ | - | - |
-| Toomics | toomics  |  [https://toomics.com/](https://toomics.com/) | √ | - | √ |
 | qootoon | qootoon  | [https://www.qootoon.net/](https://www.qootoon.net/) | √ | - | - |
 | 扑飞漫画 | pufei8 | [http://www.pufei8.com/](http://www.pufei8.com/) | - | - | √ |
 | 歪漫屋 | yymh889 | [http://yymh889.com/](http://yymh889.com/) | √ | √ | - |
 | 爱飞漫画 | 2feimh | [https://www.2feimh.com/](https://www.2feimh.com/) | - | - | - |
 | 优酷漫画 | ykmh | [https://www.ykmh.com/](https://www.ykmh.com/) | √ | √ | - |
 | 来漫画 | laimanhua | [https://www.laimanhua.com/](https://www.laimanhua.com/) | √ | √ | √ |
+| 漫画160 | mh160 | [https://www.mh160.xyz/](https://www.mh160.xyz/) | √ | √ | √ |
 
 ## R18
 
@@ -42,14 +42,12 @@
 | NHentai | nhentai | [https://nhentai.net/](https://nhentai.net/) | √ | √ | √ |
 | 禁漫之家 | jmzj | [http://jmzj.xyz/](http://jmzj.xyz/) | √ | √ | √ |
 | 污污漫画 | 55comic | [https://www.55comic.com/](https://www.55comic.com/) | √ | √ | √ |
-| TwHentai | twhentai | [http://twhentai.com/](http://twhentai.com/) | √ | √ | √ |
 
 ## 图集
 
 | 名字 | site | 站点主页 | 最近更新 | 关键词搜索 | 标签搜索 |
 | --- | --- | --- | --- | --- | --- |
 | 秀人网 | xiuren | [http://www.xiuren.org/](http://www.xiuren.org/) | √ | - | √ |
-| 宅男女神 | nvshens | [https://www.nvshens.org/](https://www.nvshens.org/) | √ | - | √ |
 | MMKK | mmkk | [https://www.mmkk.me/](https://www.mmkk.me/) | √ | - | √ |
 
 
@@ -59,4 +57,5 @@
 | --- | --- | --- |
 | e-hentai | 配合 Ehviewer 食用 | [https://e-hentai.org/](https://e-hentai.org/) |
 | exhenta | 配合 Ehviewer 食用 | [https://exhentai.org/](https://exhentai.org/) |
-| Nsfwpicx | NSFW图集（看看就好，别爬了） | [http://nsfwpicx.top/](https://nsfwpicx.com/) |
+| Nsfwpicx | NSFW图集（看看就好，别爬了） | [http://picxxxxx.top/](http://picxxxxx.top/) |
+| Toomics | toomics  |  [https://toomics.com/](https://toomics.com/) | √ | - | √ |
