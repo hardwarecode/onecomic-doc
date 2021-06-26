@@ -29,7 +29,10 @@
 | 爱飞漫画 | 2feimh | [https://www.2feimh.com/](https://www.2feimh.com/) | - | - | - |
 | 优酷漫画 | ykmh | [https://www.ykmh.com/](https://www.ykmh.com/) | √ | √ | - |
 | 来漫画 | laimanhua | [https://www.laimanhua.com/](https://www.laimanhua.com/) | √ | √ | √ |
-| 漫画160 | mh160 | [https://www.mh160.xyz/](https://www.mh160.xyz/) | √ | √ | √ |
+| 漫画160 | mh160 | [https://www.mh160.xyz/](https://www.mh160.xyz/) | √ | √ | √ |、
+| 奇漫屋 | qiman6 | [http://www.qiman6.com/](http://www.qiman6.com/) | √ | √ | √ |
+| 奇妙漫画 | qimiaomh | [https://www.qimiaomh.com/](https://www.qimiaomh.com/) | √ | √ | √ |
+| 6漫画 | sixmh6 | [http://www.sixmh6.com/](http://www.sixmh6.com/) | √ | √ | √ |
 
 ## R18
 
@@ -58,4 +61,4 @@
 | e-hentai | 配合 Ehviewer 食用 | [https://e-hentai.org/](https://e-hentai.org/) |
 | exhenta | 配合 Ehviewer 食用 | [https://exhentai.org/](https://exhentai.org/) |
 | Nsfwpicx | NSFW图集（看看就好，别爬了） | [http://picxxxxx.top/](http://picxxxxx.top/) |
-| Toomics | toomics  |  [https://toomics.com/](https://toomics.com/) | √ | - | √ |
+| Toomics | 之前适配过，现在不能用了 |  [https://toomics.com/](https://toomics.com/) |
