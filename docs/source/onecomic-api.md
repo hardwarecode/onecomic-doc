@@ -12,6 +12,8 @@
 
 自己找安装Python的教程（Python版本大于等于3.6）
 
+安装nodejs环境
+
 ```sh
 git clone git@github.com:hardwarecode/onecomic-api.git
 
@@ -22,6 +24,7 @@ cd onecomic-api
 pip install -r requirements.txt
 
 # 复制`api/config.py.example`并命名为`api/config.py` 并根据实际情况修改`api/config.py`的参数
+# 注意配置 api/config.py  NODE_MODULES
 cp api/config.py.example api/config.py
 
 # 启动接口
