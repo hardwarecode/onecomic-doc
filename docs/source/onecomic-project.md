@@ -2,7 +2,7 @@
 
 ## 漫画站点
 
-| 名字 | site | 站点主页 | 最近更新 | 关键词搜索 | 标签搜索 |
+| 站点 | site | 站点主页 | 最近更新 | 关键词搜索 | 标签搜索 |
 | --- | --- | --- | --- | --- | --- |
 | 拷贝漫画 | copymanga | [https://copymanga.com/](https://copymanga.com/) | √ | √ | √ |
 | 二次元动漫 | 2animx | [https://www.2animx.com/](https://www.2animx.com/) | √ | √ | √ |
@@ -41,7 +41,7 @@
 
 ## R18
 
-| 名字 | site | 站点主页 | 最近更新 | 关键词搜索 | 标签搜索 |
+| 站点 | site | 站点主页 | 最近更新 | 关键词搜索 | 标签搜索 |
 | --- | --- | --- | --- | --- | --- |
 | 18H漫画区 | 18hmmcg | [http://18h.mm-cg.com/](http://18h.mm-cg.com/) | √ | √ | √ |
 | 177漫畫 | 177pic | [http://177pic.info/](http://177pic.info/) | √ | √ | √ |
@@ -53,7 +53,7 @@
 
 ## 图集
 
-| 名字 | site | 站点主页 | 最近更新 | 关键词搜索 | 标签搜索 |
+| 站点 | site | 站点主页 | 最近更新 | 关键词搜索 | 标签搜索 |
 | --- | --- | --- | --- | --- | --- |
 | 秀人网 | xiuren | [http://www.xiuren.org/](http://www.xiuren.org/) | √ | - | √ |
 | MMKK | mmkk | [https://www.mmkk.me/](https://www.mmkk.me/) | √ | - | √ |
@@ -61,7 +61,7 @@
 
 ## 其它站点（未收录）
 
-| 名字 | site | 站点主页 |
+| 站点 | 说明 | 站点主页 |
 | --- | --- | --- |
 | e-hentai | 配合 Ehviewer 食用 | [https://e-hentai.org/](https://e-hentai.org/) |
 | exhenta | 配合 Ehviewer 食用 | [https://exhentai.org/](https://exhentai.org/) |
