@@ -33,6 +33,11 @@
 | 奇漫屋 | qiman6 | [http://www.qiman6.com/](http://www.qiman6.com/) | √ | √ | √ |
 | 奇妙漫画 | qimiaomh | [https://www.qimiaomh.com/](https://www.qimiaomh.com/) | √ | √ | √ |
 | 6漫画 | sixmh6 | [http://www.sixmh6.com/](http://www.sixmh6.com/) | √ | √ | √ |
+| 波动boodo | boodo | [https://boodo.qq.com/](https://boodo.qq.com/) | √ | √ | √ |
+| 3250漫画 | 3250mh | [https://www.3250mh.com/](https://www.3250mh.com/) | √ | √ | √ |
+
+- 添加漫画源:  
+- 添加漫画源: 3250漫画 https://www.3250mh.com/
 
 ## R18
 
