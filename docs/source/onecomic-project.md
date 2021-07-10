@@ -62,3 +62,19 @@
 | exhenta | 配合 Ehviewer 食用 | [https://exhentai.org/](https://exhentai.org/) |
 | Nsfwpicx | NSFW图集（看看就好，别爬了） | [http://picxxxxx.top/](http://picxxxxx.top/) |
 | Toomics | 之前适配过，现在不能用了 |  [https://toomics.com/](https://toomics.com/) |
+
+
+## 得闲饮茶
+
+<table>
+    <tr>
+        <td>
+            <img src="./_static/image/zhifubao-shouqianma.jpg" width="50%" height="50%">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="./_static/image/wx-shouqianma.jpg" width="50%" height="50%">
+        </td>
+    </tr>
+</table>
