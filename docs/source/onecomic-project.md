@@ -17,7 +17,7 @@
 | 动漫之家 | dmzj | [https://www.dmzj.com/](https://www.dmzj.com/) | √ | √ | √ |
 | 快看漫画 | kuaikan | [https://www.kuaikanmanhua.com/](https://www.kuaikanmanhua.com/) | √ | √ | √ |
 | 漫画柜 | manhuagui | [https://www.manhuagui.com/](https://www.manhuagui.com/) | √ | √ | √ |
-| 漫画柜 |  | [https://www.mhgui.com/](https://www.mhgui.com/) | √ | √ | √ |
+| 漫画柜 | mhgui | [https://www.mhgui.com/](https://www.mhgui.com/) | √ | √ | √ |
 | 漫画1234 | mh1234 | [https://www.mh1234.com/](https://www.mh1234.com/) | √ | √ | √ |
 | 新新漫画 | 77mh | [https://www.77mh.cc/](https://www.77mh.cc/) | √ | √ | √ |
 | 漫画台 | manhuatai | [https://www.manhuatai.com/](https://www.manhuatai.com/) | √ | - | - |
