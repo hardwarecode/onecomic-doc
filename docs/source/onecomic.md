@@ -144,10 +144,11 @@ onecomic -s nhentai --search-all --search-name 汉化 --search-page 1 --all
 
 #### cookies使用说明
 
-1. 下载付费内容需要cookies
-2. Toomics、qootoon站点下载R18内容需要cookies
-3. 最好保证脚本与在浏览器导出的cookies在同一个网络环境（如果浏览器使用代理，脚本也要使用同样的代理环境）
-4. 若使用了cookies还是下载不了，需要级检查账号在站点浏览是否正常，重新导出一份新的cookies文件再试试
+- 下载付费内容需要cookies，Toomics、qootoon站点下载R18内容也需要cookies
+- 最好保证脚本与在浏览器导出的cookies在同一个网络环境（如果浏览器使用代理，脚本也要使用同样的代理环境）
+- 若使用了cookies还是下载不了，需检查账号在站点浏览是否正常，若正常浏览则重新导出一份新的cookies文件再做尝试
+- 若还是下载不了，请加群反馈。付费内容的下载问题还请提供cookies或账号（私聊群主），不提供大概率会被无视
+
 
 #### 关于cocomanhua的下载
 
