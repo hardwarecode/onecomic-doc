@@ -17,6 +17,7 @@
 | 动漫之家 | dmzj | [https://www.dmzj.com/](https://www.dmzj.com/) | √ | √ | √ |
 | 快看漫画 | kuaikan | [https://www.kuaikanmanhua.com/](https://www.kuaikanmanhua.com/) | √ | √ | √ |
 | 漫画柜 | manhuagui | [https://www.manhuagui.com/](https://www.manhuagui.com/) | √ | √ | √ |
+| 漫画柜 |  | [https://www.mhgui.com/](https://www.mhgui.com/) | √ | √ | √ |
 | 漫画1234 | mh1234 | [https://www.mh1234.com/](https://www.mh1234.com/) | √ | √ | √ |
 | 新新漫画 | 77mh | [https://www.77mh.cc/](https://www.77mh.cc/) | √ | √ | √ |
 | 漫画台 | manhuatai | [https://www.manhuatai.com/](https://www.manhuatai.com/) | √ | - | - |
@@ -35,9 +36,8 @@
 | 6漫画 | sixmh6 | [http://www.sixmh6.com/](http://www.sixmh6.com/) | √ | √ | √ |
 | 波动boodo | boodo | [https://boodo.qq.com/](https://boodo.qq.com/) | √ | √ | √ |
 | 3250漫画 | 3250mh | [https://www.3250mh.com/](https://www.3250mh.com/) | √ | √ | √ |
+| 漫番漫画 | myfcomic | [http://www.myfcomic.com/](http://www.myfcomic.com/) | √ | √ | √ |
 
-- 添加漫画源:  
-- 添加漫画源: 3250漫画 https://www.3250mh.com/
 
 ## R18
 
