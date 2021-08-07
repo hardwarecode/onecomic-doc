@@ -37,6 +37,7 @@
 | 波动boodo | boodo | [https://boodo.qq.com/](https://boodo.qq.com/) | ✓ | ✓ | ✓ |
 | 3250漫画 | 3250mh | [https://www.3250mh.com/](https://www.3250mh.com/) | ✓ | ✓ | ✓ |
 | 漫番漫画 | myfcomic | [http://www.myfcomic.com/](http://www.myfcomic.com/) | ✓ | ✓ | ✓ |
+| 包子漫画 | baozimh | [https://www.baozimh.com/](https://www.baozimh.com/) | ✓ | ✓ | ✓ |
 
 
 ## R18
