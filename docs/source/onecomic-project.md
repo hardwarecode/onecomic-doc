@@ -6,8 +6,8 @@
 | --- | --- | --- | --- | --- | --- |
 | 拷贝漫画 | copymanga | [https://copymanga.com/](https://copymanga.com/) | ✓ | ✓ | ✓ |
 | 二次元动漫 | 2animx | [https://www.2animx.com/](https://www.2animx.com/) | ✓ | ✓ | ✓ |
-| 古风漫画网 | gufengmh8 | [https://www.gufengmh8.com/](https://www.gufengmh8.com/) | ✓ | - | ✓ |
-| 36漫画网 | 36mh | [https://www.36mh.net/](https://www.36mh.net/) | ✓ | - | ✓ |
+| 古风漫画网 | gufengmh | [https://www.gufengmh9.com/](https://www.gufengmh9.com/) | ✓ | - | ✓ |
+| 36漫画网 | 36mh | [https://www.36mh.com/](https://www.36mh.com/) | ✓ | - | ✓ |
 | 土豪漫画网 | tuhao456 | [https://www.tuhao456.com/](https://www.tuhao456.com/) | ✓ | ✓ | ✓ |
 | 漫画DB | manhuadb | [https://www.manhuadb.com/](https://www.manhuadb.com/) | ✓ | ✓ | ✓ |
 | DM5 | dm5 | [https://www.dm5.com/](https://www.dm5.com/) | ✓ | ✓ | ✓ |
@@ -29,15 +29,17 @@
 | 歪漫屋 | yymh889 | [http://yymh889.com/](http://yymh889.com/) | ✓ | ✓ | - |
 | 爱飞漫画 | 2feimh | [https://www.2feimh.com/](https://www.2feimh.com/) | - | - | - |
 | 优酷漫画 | ykmh | [https://www.ykmh.com/](https://www.ykmh.com/) | ✓ | ✓ | - |
-| 来漫画 | laimanhua | [https://www.laimanhua.com/](https://www.laimanhua.com/) | ✓ | ✓ | ✓ |
-| 漫画160 | mh160 | [https://www.mh160.xyz/](https://www.mh160.xyz/) | ✓ | ✓ | ✓ |
+| 来漫画 | laimanhua | [https://www.laimanhua.net/](https://www.laimanhua.net/) | ✓ | ✓ | ✓ |
+| 漫画160 | mh160 | [https://www.mh160.cc/](https://www.mh160.cc/) | ✓ | ✓ | ✓ |
 | 奇漫屋 | qiman6 | [http://www.qiman6.com/](http://www.qiman6.com/) | ✓ | ✓ | ✓ |
 | 奇妙漫画 | qimiaomh | [https://www.qimiaomh.com/](https://www.qimiaomh.com/) | ✓ | ✓ | ✓ |
 | 6漫画 | sixmh6 | [http://www.sixmh6.com/](http://www.sixmh6.com/) | ✓ | ✓ | ✓ |
 | 波动boodo | boodo | [https://boodo.qq.com/](https://boodo.qq.com/) | ✓ | ✓ | ✓ |
-| 3250漫画 | 3250mh | [https://www.3250mh.com/](https://www.3250mh.com/) | ✓ | ✓ | ✓ |
+| 3250漫画（已失效） | 3250mh | [https://www.3250mh.com/](https://www.3250mh.com/) | ✓ | ✓ | ✓ |
 | 漫番漫画 | myfcomic | [http://www.myfcomic.com/](http://www.myfcomic.com/) | ✓ | ✓ | ✓ |
 | 包子漫画 | baozimh | [https://www.baozimh.com/](https://www.baozimh.com/) | ✓ | ✓ | ✓ |
+| BoyLove | boylove | [https://boylove.cc/](https://boylove.cc/) | ✓ | ✓ | ✓ |
+| 酷爱漫画 | kuimh | [https://www.kuimh.com/](https://www.kuimh.com/) | ✓ | ✓ | ✓ |
 
 
 ## R18

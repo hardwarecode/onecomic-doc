@@ -43,9 +43,15 @@ receivers=11111@qq.com,22222@qq.com
 # proxy_webtoons=socks5://127.0.0.1:1080
 
 
+# 若站点域名变更，页面样式不变，可通过参数修改域名
+# site_index_gufengmh=https://www.gufengmh9.com/
+# site_index_mh160=https://mh160.cc/
+
+
 # webdriver 配置
 # driver_type=Chrome
 # driver_path=/home/xxx/chromedriver_win32/chromedriver.exe
+
 
 # node模块位置
 # node_modules=/home/xxx/js/node_modules
@@ -66,6 +72,9 @@ crawler_timeout=30
 
 # 每个章节下载时间间隔 单位秒
 crawler_delay=0
+
+# User-Agent 配置
+# user_agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36
 ```
 
 将上述配置保存为`config.ini`
