@@ -75,6 +75,9 @@ crawler_delay=0
 
 # User-Agent 配置
 # user_agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36
+
+# 将下载的webp格式的图片自动转换成jpg
+transfer_webp=1
 ```
 
 将上述配置保存为`config.ini`
