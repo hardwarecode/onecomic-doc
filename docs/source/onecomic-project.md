@@ -22,7 +22,7 @@
 | 新新漫画 | 77mh | [https://www.77mh.cc/](https://www.77mh.cc/) | ✓ | ✓ | ✓ |
 | 漫画台 | manhuatai | [https://www.manhuatai.com/](https://www.manhuatai.com/) | ✓ | - | - |
 | ACG肆伍陆 | acg456 | [http://www.acg456.com/](http://www.acg456.com/) | ✓ | - | ✓ |
-| COCO漫画 | cocomanhua | [https://www.cocomanhua.com/](https://www.cocomanhua.com/) | ✓ | ✓ | ✓ |
+| ~~COCO漫画~~ | ~~cocomanhua~~ | ~~[https://www.cocomanhua.com/](https://www.cocomanhua.com/)~~ | ✓ | ✓ | ✓ |
 | WEBTOON | webtoons | [https://www.webtoons.com/](https://www.webtoons.com/) | ✓ | - | - |
 | qootoon | qootoon  | [https://www.qootoon.net/](https://www.qootoon.net/) | ✓ | - | - |
 | 扑飞漫画 | pufei8 | [http://www.pufei8.com/](http://www.pufei8.com/) | - | - | ✓ |
