@@ -29,6 +29,8 @@ pip install -U onecomic
 onecomic --help
 ```
 
+[更新日志](https://github.com/hardwarecode/onecomic/blob/main/CHANGELOG.md)
+
 ## 常规使用
 
 **Windows下，以下所有示例命令需要添加`python -m`前缀**
