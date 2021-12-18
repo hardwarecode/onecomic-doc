@@ -127,16 +127,16 @@ https://www.u17.com/comic/195.html
 ```sh
 # 有些站点不一定支持，其它的通用参数也适用，可自行组合
 # 下载最近更新页面的1到10页 所有漫画的最新一集
-onecomic -s nvshens --latest-all --latest-page 1-10
+onecomic -s nvshens --latest --page 1-10
 
 # 展示支持的标签
 onecomic -s nvshens --show-tags
 
 # 下载标签搜索结果页面的1到10页 所有漫画的全集
-onecomic -s nvshens --tag-all --tag 女神 --tag-page 1-10 --all
+onecomic -s nvshens --tag 女神 --page 1-10 --all
 
 # 下载搜索结果的所有漫画的全集
-onecomic -s nhentai --search-all --search-name 汉化 --search-page 1 --all
+onecomic -s nhentai --search 汉化 --page 1 --all
 ```
 
 
