@@ -10,7 +10,7 @@
 
 ## 安装/升级步骤
 
-自己找安装Python的教程（Python版本大于等于3.6）
+自己找安装Python的教程（Python版本大于等于3.6，小于3.10）
 
 安装nodejs环境，自己找教程安装
 
@@ -99,16 +99,6 @@ onecomic -s u17 -id 195 -c 1
 onecomic --url "https://manga.bilibili.com/detail/mc28603" -c 1
 ```
 
-## 关于登录
-
-登录后可下载已购买的付费资源
-
-1. [安装EditThisCookie插件](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
-2. 在浏览器上登录某个站点，然后通过插件导出某个站点的cookies，并保存到本地文件 如`qq.json`
-```sh
-onecomic -s qq -id=505430 -c -1 --cookies-path="qq.json"
-```
-
 
 ## 高级批量下载
 
@@ -142,18 +132,30 @@ onecomic -s nhentai --search 汉化 --page 1 --all
 ```
 
 
-## 其它说明
+## 常见问题
 
-#### cookies使用说明
+### 怎么下载有登陆限制/需要付费漫画
 
-- 下载付费内容需要cookies，Toomics、qootoon站点下载R18内容也需要cookies
-- 最好保证脚本与在浏览器导出的cookies在同一个网络环境（如果浏览器使用代理，脚本也要使用同样的代理环境）
-- 若使用了cookies还是下载不了，需检查账号在站点浏览是否正常，若正常浏览则重新导出一份新的cookies文件再做尝试
-- 若还是下载不了，请加群反馈。付费内容的下载问题还请提供cookies或账号（私聊群主），不提供大概率会被无视
+下载付费漫画的前提是，你的账号要**先购买**漫画
 
+1. [安装EditThisCookie插件](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg)
+2. 在浏览器上登录某个站点，然后通过插件导出某个站点的cookie，并保存到本地文件 如`qq.json`
+3. 最好保证运行的脚本与在浏览器导出的cookie在同一个网络环境（如果浏览器使用代理，脚本也要使用同样的代理环境）
 
-#### 关于cocomanhua的下载
+```sh
+onecomic -s qq -id=505430 -c -1 --cookies-path="qq.json"
+```
 
-1. 安装nodejs环境
-2. 安装crypto-js依赖，命令：`npm install crypto-js`，默认在当前目录下生成`node_modules`目录
-3. 下载 `onecomic -s cocomanhua -id 12187` 或者 `onecomic -s cocomanhua --node-modules ./node_modules`
+若使用了cookie还是下载不了，需检查账号在站点浏览是否正常，若正常浏览则重新导出一份新的cookies文件再做尝试
+
+若还是下载不了，请加群反馈，随缘修复
+
+### Toomics、qootoon站点下载R18内容需要配置cookie
+
+### 站点域名修改了，样式没有变化
+
+可以通过`--site-index`参数指定新域名，或参考配置文件修改
+
+```sh
+onecomic -s gufengmh --site-index="https://www.gufengmh9.com/"
+```

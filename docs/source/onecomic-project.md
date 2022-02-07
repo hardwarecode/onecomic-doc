@@ -22,7 +22,6 @@
 | 新新漫画 | 77mh | [https://www.77mh.cc/](https://www.77mh.cc/) | ✓ | ✓ | ✓ |
 | 漫画台 | manhuatai | [https://www.manhuatai.com/](https://www.manhuatai.com/) | ✓ | - | - |
 | ACG肆伍陆 | acg456 | [http://www.acg456.com/](http://www.acg456.com/) | ✓ | - | ✓ |
-| ~~COCO漫画~~ | ~~cocomanhua~~ | ~~[https://www.cocomanhua.com/](https://www.cocomanhua.com/)~~ | ✓ | ✓ | ✓ |
 | WEBTOON | webtoons | [https://www.webtoons.com/](https://www.webtoons.com/) | ✓ | - | - |
 | qootoon | qootoon  | [https://www.qootoon.net/](https://www.qootoon.net/) | ✓ | - | - |
 | 扑飞漫画 | pufei8 | [http://www.pufei8.com/](http://www.pufei8.com/) | - | - | ✓ |
@@ -40,6 +39,7 @@
 | 包子漫画 | baozimh | [https://www.baozimh.com/](https://www.baozimh.com/) | ✓ | ✓ | ✓ |
 | BoyLove | boylove | [https://boylove.cc/](https://boylove.cc/) | ✓ | ✓ | ✓ |
 | 酷爱漫画 | kuimh | [https://www.kuimh.com/](https://www.kuimh.com/) | ✓ | ✓ | ✓ |
+| 漫画飞 | manhuafei | [https://www.manhuafei.com/](https://www.manhuafei.com/) | ✓ | ✓ | ✓ |
 
 
 ## R18
@@ -70,3 +70,4 @@
 | exhenta | 配合 Ehviewer 食用 | [https://exhentai.org/](https://exhentai.org/) |
 | Nsfwpicx | NSFW图集（看看就好，别爬了） | [http://picxxxxx.top/](http://picxxxxx.top/) |
 | Toomics | 之前适配过，现在不能用了 |  [https://toomics.com/](https://toomics.com/) |
+| COCO漫画 | 之前适配过，现在不能用了 | [https://www.cocomanhua.com/](https://www.cocomanhua.com/) |
