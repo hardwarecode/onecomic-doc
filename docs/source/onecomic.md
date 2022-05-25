@@ -159,3 +159,54 @@ onecomic -s qq -id=505430 -c -1 --cookies-path="qq.json"
 ```sh
 onecomic -s gufengmh --site-index="https://www.gufengmh9.com/"
 ```
+
+### python3.10运行报错
+
+python3.10运行的时候报错
+
+```
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/runpy.py", line 196, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "/usr/lib/python3.10/runpy.py", line 86, in _run_code
+    exec(code, run_globals)
+  File "/home/xxxx/.local/lib/python3.10/site-packages/onecomic/__main__.py", line 3, in <module>
+    from .cli import main
+  File "/home/xxxx/.local/lib/python3.10/site-packages/onecomic/cli.py", line 6, in <module>
+    from .comicbook import ComicBook
+  File "/home/xxxx/.local/
+  lib/python3.10/site-packages/onecomic/comicbook.py", line 19, in <module>
+    from .crawlerbase import CrawlerBase
+  File "/home/xxxx/.local/lib/python3.10/site-packages/onecomic/crawlerbase.py", line 12, in <module>
+    from .session import CrawlerSession
+  File "/home/xxxx/.local/lib/python3.10/site-packages/onecomic/session.py", line 4, in <module>
+    import httpx
+  File "/home/xxxx/.local/lib/python3.10/site-packages/httpx/__init__.py", line 2, in <module>
+    from ._api import delete, get, head, options, patch, post, put, request, stream
+  File "/home/xxxx/.local/lib/python3.10/site-packages/httpx/_api.py", line 4, in <module>
+    from ._client import Client
+  File "/home/xxxx/.local/lib/python3.10/site-packages/httpx/_client.py", line 29, in <module>
+    from ._transports.default import AsyncHTTPTransport, HTTPTransport
+  File "/home/xxxx/.local/lib/python3.10/site-packages/httpx/_transports/default.py", line 30, in <module>
+    import httpcore
+  File "/home/xxxx/.local/lib/python3.10/site-packages/httpcore/__init__.py", line 1, in <module>
+    from ._api import request, stream
+  File "/home/xxxx/.local/lib/python3.10/site-packages/httpcore/_api.py", line 5, in <module>
+    from ._sync.connection_pool import ConnectionPool
+  File "/home/xxxx/.local/lib/python3.10/site-packages/httpcore/_sync/__init__.py", line 8, in <module>
+    from .http2 import HTTP2Connection
+  File "/home/xxxx/.local/lib/python3.10/site-packages/httpcore/_sync/http2.py", line 7, in <module>
+    import h2.connection
+  File "/home/xxxx/.local/lib/python3.10/site-packages/h2/connection.py", line 13, in <module>
+    from hyperframe.frame import (
+  File "/home/xxxx/.local/lib/python3.10/site-packages/hyperframe/frame.py", line 17, in <module>
+    from .flags import Flag, Flags
+  File "/home/xxxx/.local/lib/python3.10/site-packages/hyperframe/flags.py", line 14, in <module>
+    class Flags(collections.MutableSet):
+AttributeError: module 'collections' has no attribute 'MutableSet'
+```
+
+如遇到以上报错，可以尝试升级一下这个依赖包解决
+```
+python3 -m pip install -U h2
+```
