@@ -53,6 +53,7 @@
 | NHentai | nhentai | [https://nhentai.net/](https://nhentai.net/) | ✓ | ✓ | ✓ |
 | 禁漫之家 | jmzj | [http://jmzj.xyz/](http://jmzj.xyz/) | ✓ | ✓ | ✓ |
 | 污污漫画 | 55comic | [https://www.55comic.com/](https://www.55comic.com/) | ✓ | ✓ | ✓ |
+| TwHentai | twhentai | [http://twhentai.com/](http://twhentai.com/) | ✓ | ✓ | ✓ |
 
 ## 图集
 
