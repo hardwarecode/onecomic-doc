@@ -40,6 +40,7 @@
 | BoyLove | boylove | [https://boylove.cc/](https://boylove.cc/) | ✓ | ✓ | ✓ |
 | 酷爱漫画 | kuimh | [https://www.kuimh.com/](https://www.kuimh.com/) | ✓ | ✓ | ✓ |
 | 漫画飞 | manhuafei | [https://www.manhuafei.com/](https://www.manhuafei.com/) | ✓ | ✓ | ✓ |
+| 漫蛙漫画 | manwa | [https://manwa.site/](https://manwa.site/) | ✓ | - | ✓ |
 
 
 ## R18
