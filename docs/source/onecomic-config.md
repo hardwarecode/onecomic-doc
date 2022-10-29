@@ -78,6 +78,10 @@ crawler_delay=0
 
 # 将下载的webp格式的图片自动转换成jpg
 transfer_webp=1
+
+
+# 日志输出文件路径
+log_file=/home/xxx/MyComicBook/xxx.log
 ```
 
 将上述配置保存为`config.ini`
