@@ -72,10 +72,13 @@ onecomic -s qq -id=505430 --output MyComicBook
 # 将多话合并到单个文件夹和zip文件
 onecomic -s manhuagui -id 1128 -c 320-322 --merge --merge-zip
 
-# 下载单行本
+# 下载单行本 番外篇 xxx
 onecomic -s manhuagui -id 1128 --ext-name 单行本 -c -1
+onecomic -s xxx -id xxx --ext-name 番外篇 -c -1
+onecomic -s xxx -id xxx --ext-name xxx -c -1
 
-# 跟据名字搜索comicid
+
+# 跟据名字搜索漫画comicid 打印搜索结果
 onecomic -s qq --name 海贼
 
 # 生成pdf文件
@@ -126,6 +129,10 @@ onecomic -s nvshens --show-tags
 
 # 下载标签搜索结果页面的1到10页 所有漫画的全集
 onecomic -s nvshens --tag 女神 --page 1-10 --all
+
+
+# 跟据名字搜索漫画comicid 打印搜索结果
+onecomic -s nhentai --name 汉化
 
 # 下载搜索结果的所有漫画的全集
 onecomic -s nhentai --search 汉化 --page 1 --all
