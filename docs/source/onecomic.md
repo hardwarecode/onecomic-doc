@@ -167,9 +167,9 @@ onecomic -s qq -id=505430 -c -1 --cookies-path="qq.json"
 onecomic -s gufengmh --site-index="https://www.gufengmh9.com/"
 ```
 
-### python3.10运行报错
+### 运行报错
 
-python3.10运行的时候报错
+运行的时候报错
 
 ```
 Traceback (most recent call last):
@@ -211,6 +211,58 @@ Traceback (most recent call last):
   File "/home/xxxx/.local/lib/python3.10/site-packages/hyperframe/flags.py", line 14, in <module>
     class Flags(collections.MutableSet):
 AttributeError: module 'collections' has no attribute 'MutableSet'
+```
+或者
+```
+Traceback (most recent call last):
+  File "/home/xxxx/anaconda3/lib/python3.11/site-packages/onecomic/crawlerbase.py", line 257, in send_request
+    response = session.request(method=method, url=url, **kwargs)
+  File "/home/xxxx/anaconda3/lib/python3.11/site-packages/httpx/_client.py", line 827, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+  File "/home/xxxx/anaconda3/lib/python3.11/site-packages/httpx/_client.py", line 914, in send
+    response = self._send_handling_auth(
+  File "/home/xxxx/anaconda3/lib/python3.11/site-packages/httpx/_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+  File "/home/xxxx/anaconda3/lib/python3.11/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+  File "/home/xxxx/anaconda3/lib/python3.11/site-packages/httpx/_client.py", line 1015, in _send_single_request
+    response = transport.handle_request(request)
+  File "/home/xxxx/anaconda3/lib/python3.11/site-packages/httpx/_transports/default.py", line 233, in handle_request
+    resp = self._pool.handle_request(req)
+  File "/home/xxxx/anaconda3/lib/python3.11/site-packages/httpcore/_sync/connection_pool.py", line 216, in handle_request
+    raise exc from None
+  File "/home/xxxx/anaconda3/lib/python3.11/site-packages/httpcore/_sync/connection_pool.py", line 196, in handle_request
+    response = connection.handle_request(
+  File "/home/xxxx/anaconda3/lib/python3.11/site-packages/httpcore/_sync/connection.py", line 101, in handle_request
+    return self._connection.handle_request(request)
+  File "/home/xxxx/anaconda3/lib/python3.11/site-packages/httpcore/_sync/http2.py", line 113, in handle_request
+    raise exc
+  File "/home/xxxx/anaconda3/lib/python3.11/site-packages/httpcore/_sync/http2.py", line 109, in handle_request
+    self._send_connection_init(**kwargs)
+  File "/home/xxxx/anaconda3/lib/python3.11/site-packages/httpcore/_sync/http2.py", line 211, in _send_connection_init
+    h2.settings.SettingCodes.ENABLE_CONNECT_PROTOCOL
+  File "/home/xxxx/anaconda3/lib/python3.11/enum.py", line 784, in __getattr__
+    raise AttributeError(name) from None
+AttributeError: ENABLE_CONNECT_PROTOCOL
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/xxxx/anaconda3/bin/onecomic", line 4, in <module>
+    main()
+  File "/home/xxxx/anaconda3/lib/python3.11/site-packages/onecomic/cli.py", line 446, in main
+    comicbook.start_crawler()
+  File "/home/xxxx/anaconda3/lib/python3.11/site-packages/onecomic/comicbook.py", line 97, in start_crawler
+    self.refresh()
+  File "/home/xxxx/anaconda3/lib/python3.11/site-packages/onecomic/comicbook.py", line 100, in refresh
+    self.comicbook_item = self.crawler.get_comicbook_item()
+  File "/home/xxxx/anaconda3/lib/python3.11/site-packages/onecomic/site/bilibili.py", line 124, in get_comicbook_item
+    api_data = self.get_api_data()
+  File "/home/xxxx/anaconda3/lib/python3.11/site-packages/onecomic/site/bilibili.py", line 115, in get_api_data
+    response = self.send_request("POST", url=self.COMICBOOK_API, data=data)
+  File "/home/xxxx/anaconda3/lib/python3.11/site-packages/onecomic/crawlerbase.py", line 267, in send_request
+    raise URLException(msg) from e
+onecomic.exceptions.URLException: NETWORK ERROR. can not open url: https://manga.bilibili.com/twirp/comic.v1.Comic/ComicDetail?device=pc&platform=web
 ```
 
 如遇到以上报错，可以尝试升级一下这个依赖包解决
