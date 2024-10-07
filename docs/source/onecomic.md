@@ -51,8 +51,12 @@ onecomic -s qq -id 505430 --all
 # 下载第800集
 onecomic -s qq -id 505430 -c 800
 
-# 下载倒数第二集
-onecomic -s qq -id 505430 -c -2
+# 下载倒数第2集
+onecomic -s qq -id 505430 -c r2
+
+# 下载倒数第1集至倒数第5集
+onecomic -s qq -id 505430 -c r1-5
+
 
 # 下载1到5集,7集，9到10集
 onecomic -s qq -id 505430 -c 1-5,7,9-10
