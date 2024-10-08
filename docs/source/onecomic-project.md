@@ -5,6 +5,7 @@
 | 站点 | site | 站点主页 | 最近更新 | 关键词搜索 | 标签搜索 |
 | --- | --- | --- | --- | --- | --- |
 | 拷贝漫画 | copymanga | [https://copymanga.com/](https://copymanga.com/) | ✓ | ✓ | ✓ |
+| 熱辣漫畫 | 2024manga | [https://www.2024manga.com/](https://www.2024manga.com/) | ✓ | ✓ | ✓ |
 | 二次元动漫 | 2animx | [https://www.2animx.com/](https://www.2animx.com/) | ✓ | ✓ | ✓ |
 | 古风漫画网 | gufengmh | [https://www.gufengmh9.com/](https://www.gufengmh9.com/) | ✓ | - | ✓ |
 | 36漫画网 | 36mh | [https://www.36mh.com/](https://www.36mh.com/) | ✓ | - | ✓ |
